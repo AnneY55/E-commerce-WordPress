@@ -59,7 +59,7 @@ Le footer comporte :
 ## Base de données My SQL
 
 Elle s'est générée automatiquement et j'y ai accès avec Local Fly Wheel en cliquant sur DataBase et Open Adminer
-Par exemple pour compte utilisateur client et administrateur : cliquer à gauche sur select wp_users, donne accès à la table wp_users et ensuite afficher les données, le tableau s'affiche avec 1 administrateur et 1 client. Pour ajouter cliquer sur nouvel élément.
+Par exemple pour compte utilisateur client et administrateur : cliquer à gauche sur select wp_users, donne accès à la table wp_users et ensuite afficher les données, le tableau s'affiche avec 1 administrateur et 1 client. Dans wp_wc_customers_lookup, 1 client est créé. Pour ajouter cliquer sur nouvel élément.
 Autre exemple, pour les produits cliquer à gauche sur select wp_wc_product_meta_look up, donne accès à table des produits puis afficher les données, le tableau s'affiche avec tous les produits et si besoin d'ajouter cliquer sur nouvel élément.
 
 Bonne navigation sans modération !
